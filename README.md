@@ -11,9 +11,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-## 📈 Estadísticas de GitHub  
-![Rodlarca's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rodlarca&show_icons=true&theme=radical)
-
 📫 **Contacto:**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rodrigo-lara-caceres/)
 [![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodlarca@gmail.com)
